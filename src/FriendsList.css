@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+.profile-pic {
+    border-radius: 50%;
+}
+
+#friend-card {
+    display: -webkit-flex;
+    display: flex;
+    height: auto;
+    margin: 5px;
+    border: 5px solid #8bc53f;
+    border-radius: 5px;
+    color: #8bc53f;
+    font-family:'Open Sans',sans-serif;
+}
+
+#col1 {
+    width: 60%;
+    float: right;
+    padding: 15px;
+
+}
+
+#col2 {
+    width: 40%;
+    float: left;
+    padding: 15px;
+}
