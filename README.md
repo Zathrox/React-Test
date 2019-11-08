@@ -8,4 +8,4 @@ After that, I focused on creating the profile page by creating the state I neede
 
 While doing this, I was continuously adding to, tweaking and expanding the linked CSS properties to create a consistent look and feel to the design of the page, inline with the current website.
 
-![screenshot of the pages current design](https://gyazo.com/ec7157db0ba4d376fa1e5db45d1bbbe5)
+![screenshot of the pages current design](https://i.gyazo.com/ec7157db0ba4d376fa1e5db45d1bbbe5.png)
