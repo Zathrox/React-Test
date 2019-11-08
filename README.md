@@ -10,4 +10,4 @@ While doing this, I was continuously adding to, tweaking and expanding the linke
 
 Overall, I'm pretty satisfed with what I produced in such a small space of time, there are a few niggley problems I never got around to fixing or implementing, such as the text for Interests/Intro kept on sticking to the left side of the element and wouldn't centralise or how to keep the employee list following you as you scrolled up and down, so there is plenty of room for improvement and learning but for spending around 10 hours on it, without knowing React in the slightest, I'm pleased with this!
 
-![screenshot of the pages current design](https://i.gyazo.com/ec7157db0ba4d376fa1e5db45d1bbbe5.png)
+![screenshot of the pages current design](https://i.gyazo.com/86316abd18cb9ef4d8a4fb55846162f2.png)
